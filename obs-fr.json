@@ -886,7 +886,7 @@
         {
           "id": "13-14", 
           "img": "{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-14.jpg}}", 
-          "text": "<font 13px background-color: rgb(255, 255, 255);/arial, sans-serif;;#000000;;rgb(34, 34, 34) font-family: arial, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);>Apr\u00e8s, Mo\u00efse \u00e0 \u00e9cras\u00e9 l'idole jusque ce que l'idole soit une poudre. Mo\u00efse a mis la poudre dans une quantit\u00e9 d'eau et il a dit aux Isra\u00e9lites de la boire. Dieu leur a envoy\u00e9 une maladie et quelques gens sont morts.</font>"
+          "text": "Apr\u00e8s, Mo\u00efse \u00e0 \u00e9cras\u00e9 l'idole jusque ce que l'idole soit une poudre. Mo\u00efse a mis la poudre dans une quantit\u00e9 d'eau et il a dit aux Isra\u00e9lites de la boire. Dieu leur a envoy\u00e9 une maladie et quelques gens sont morts."
         }, 
         {
           "id": "13-15", 
@@ -2588,7 +2588,7 @@
         {
           "id": "39-12", 
           "img": "{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-12.jpg}}", 
-          "text": "Mais Pilate eut peur, car l'agitation de la foule augmentait, alors il ordonna \u00e0 ses soldats de crucifier J\u00e9sus.  Les soldats Romains ont battu J\u00e9sus \u00e0 coups de fouets, le rev\u00eatirent d'un manteau \u00e9carlate et lui pos\u00e8rent sur la t\u00eate une couronne tress\u00e9e de rameaux \u00e9pineux.  Puis ils se moqu\u00e8rent de lui, disant, \"Salut, le Roi des Juifs!\""
+          "text": "Mais Pilate eut peur, car l'agitation de la foule augmentait, alors il consentit que ses soldats crucifient  J\u00e9sus.  Les soldats Romains ont battu J\u00e9sus \u00e0 coups de fouets, le rev\u00eatirent d'un manteau \u00e9carlate et lui pos\u00e8rent sur la t\u00eate une couronne tress\u00e9e de rameaux \u00e9pineux.  Puis ils se moqu\u00e8rent de lui, disant, \"Salut, le Roi des Juifs!\""
         }
       ], 
       "number": "39", 
@@ -3353,7 +3353,7 @@
       "title": "50. J\u00e9sus Reviens"
     }
   ], 
-  "date_modified": "20141006", 
+  "date_modified": "20141027", 
   "direction": "ltr", 
   "language": "fr"
 }
